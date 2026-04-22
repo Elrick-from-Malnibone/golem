@@ -1,0 +1,15 @@
+aiohttp==3.11.16
+aiogram==3.17.0
+anyio==4.9.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
+feedparser==6.0.11
+httpx==0.28.1
+idna==3.10
+python-dotenv==1.0.1
+python-telegram-bot==21.11
+redis==5.2.1
+rq==2.8.0
+sgmllib3k==1.0.0
+typing_extensions==4.13.2
+telethon
